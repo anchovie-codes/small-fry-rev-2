@@ -1,4 +1,88 @@
-24470572631470228
+24610480386773034
+Alps_Solderable
+Alps-Solderable-1.5U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-1.25U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-1.75U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-1U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-2.25U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-2.75U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-2U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-3U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-6.5U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-6.25U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-7U
+
+
+0
+2
+2
+Alps_Solderable
+Alps-Solderable-ISO
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -356,237 +440,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-Bonsai_C3
-Buzzer_1230
-Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
-buzzer piezo
-0
-2
-2
-Bonsai_C3
-Buzzer_Mallory_AST1109MLTRQ
-Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
-buzzer piezo
-0
-2
-2
-Bonsai_C3
-CP_EIA-2012-15_AVX-P
-Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-Bonsai_C3
-C_0402_1005Metric
-Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Bonsai_C3
-C_0603_1608Metric
-Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-Bonsai_C3
-C_0805
-Capacitor SMD 0805, reflow soldering
-capacitor 0805
-0
-2
-2
-Bonsai_C3
-Crystal_SMD_5032-4Pin_5.0x3.2mm
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-Bonsai_C3
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-Bonsai_C3
-D_SOD-523
-http://www.diodes.com/datasheets/ap02001.pdf p.144
-Diode SOD523
-0
-2
-2
-Bonsai_C3
-F0805
-
-
-0
-2
-2
-Bonsai_C3
-F1206
-
-
-0
-2
-2
-Bonsai_C3
-LED-0603
-
-
-0
-2
-2
-Bonsai_C3
-LED_0402
-LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED
-0
-2
-2
-Bonsai_C3
-LQFP-48_7x7mm_P0.5mm
-LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-LQFP QFP
-0
-48
-48
-Bonsai_C3
-LQFP-100_14x14mm_P0.5mm
-LQFP, 100 Pin (https://www.nxp.com/docs/en/package-information/SOT407-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-LQFP QFP
-0
-100
-100
-Bonsai_C3
-MountingHole_2mm
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-Bonsai_C3
-PAD_SQUARE_1MM
-
-
-0
-1
-1
-Bonsai_C3
-PinHeader_1x01_P2.54mm_Vertical
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-1
-1
-Bonsai_C3
-PinHeader_1x03_P2.54mm_Vertical
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-3
-3
-Bonsai_C3
-PinHeader_1x06_P2.54mm_Vertical
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-6
-6
-Bonsai_C3
-PinHeader_1x12_P2.54mm_Vertical
-Through hole straight pin header, 2x03, 2.54mm pitch, double rows
-Through hole pin header THT 2x03 2.54mm double row
-0
-12
-12
-Bonsai_C3
-R_0402_1005Metric
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Bonsai_C3
-R_0603_1608Metric
-Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-Bonsai_C3
-SOT-23-5
-5-pin SOT23 package
-SOT-23-5
-0
-5
-5
-Bonsai_C3
-SOT-323_SC-70
-SOT-323, SC-70
-SOT-323 SC-70
-0
-3
-3
-Bonsai_C3
-SOT-353_SC-70-5
-SOT-353, SC-70-5
-SOT-353 SC-70-5
-0
-5
-5
-Bonsai_C3
-SOT-363_SC-70-6_SC-88
-SOT-363, SC-70-6, SC-88
-SOT-363, SC-70-6, SC-88
-0
-6
-6
-Bonsai_C3
-SW2-SMD-2.5X3.0X1.6MM
-
-
-0
-2
-2
-Bonsai_C3
-SW4-SMD-2.7X3.0X1.4MM
-
-
-0
-4
-4
-Bonsai_C3
-TYPE-C-31-M-12
-
-
-0
-16
-13
-Bonsai_C3
-USB_C_Receptacle_Molex_105450-0101
-USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
-USB C Type-C Receptacle SMD
-0
-28
-25
-Bonsai_C3
-X2-SMD-5.0X3.2X1.3MM
-3.2MM*5MM DIMENSION
-3.2MM*5MM DIMENSION
-0
-2
-2
-Bonsai_C3
-bonsai_pads
-
-
-0
-36
-36
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -66017,700 +65870,1155 @@ Through hole pin header THT 2x20 2.54mm double row
 86
 43
 MX_Alps_Hybrid
+MX-Alps-Hybrid-1.5U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-1.25U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-1.75U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-1U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2.25U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2.25U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2.75U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2.75U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2U-Vertical
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-2U-Vertical-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-3U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-3U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6.5U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6.25U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6.25U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6U-Offcenter
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6U-Offcenter-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-6U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-7U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-7U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-8U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-8U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-9U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-9U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-10U
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-10U-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-ISO
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-ISO-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-ISO-Rotated
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-Alps-Hybrid-ISO-Rotated-ReversedStabilizers
+
+
+0
+4
+2
+MX_Alps_Hybrid-master
 MX-1.5U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.5U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.5U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.5U-Vertical
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.25U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.25U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.25U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.75U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.75U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1.75U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-1U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.5U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.25U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2.75U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-2U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-3U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-FLIPPED-NoStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.5U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6.25U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-7UOverlay
 
 
 0
 0
 0
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-7UOverlay-ReversedStabilizers
 
 
 0
 0
 0
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-Centered-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-6U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-7U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-8U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-9U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U-FLIPPED
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U-FLIPPED-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U-ReversedStabilizers
 
 
 0
 6
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-10U-ReversedStabilizers-NoLED
 
 
 0
 4
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-ISO
 
 
 0
 8
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-ISO-FLIPPED
 
 
 0
 8
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-ISO-FLIPPED-ReversedStabilizers
 
 
 0
 8
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-ISO-ReversedStabilizers
 
 
 0
 8
 4
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-LEDONLY
 
 
 0
 2
 2
-MX_Alps_Hybrid
+MX_Alps_Hybrid-master
 MX-LEDONLY-FLIPPED
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-1.5U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-1.25U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-1.75U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-1U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2.25U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2.25U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2.75U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2.75U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2U-Vertical
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-2U-Vertical-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-3U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-3U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6.25U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6.25U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6U-Offcenter
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6U-Offcenter-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-6U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-7U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-7U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-8U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-8U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-9U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-9U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-10U
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-10U-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-ISO
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-ISO-ReversedStabilizers
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-ISO-Rotated
+
+
+0
+2
+2
+MX_Hotswap
+MX-Hotswap-ISO-Rotated-ReversedStabilizers
 
 
 0
@@ -98916,706 +99224,888 @@ Varistor VF
 0
 2
 2
-keebs
-Mx_Alps_100
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_125
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_150
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_175
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_200
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_225
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_275
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Mx_Alps_625
-MXALPS
-MXALPS
-0
-2
-2
-keebs
-Pro_Micro
-
-
-0
-24
-24
-keebs
-Teensy_20
-
-
-0
-31
-31
-keyboard_parts
-4P4C
-http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
-4P4C, RJ
-0
-6
-6
-keyboard_parts
-ALPS_PLATE_SPRING
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-3
-keyboard_parts
-ALPS_PLATE_SPRING_CUTOUT
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-2
-2
-keyboard_parts
-ALPS_SKCM_CUTOUT
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB256
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB406
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_CUTOUT_STAB883
-
-
-0
-0
-0
-keyboard_parts
-ALPS_SKCM_LED
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
+marbastlib-choc
+LED_choc_1206R
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight 
 0
 4
 4
-keyboard_parts
-ALPS_SKCM_reverse_pad
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
+marbastlib-choc
+LED_choc_1206R-ROT
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight
 0
-2
-2
-keyboard_parts
-AVR_ICSP_3x2
-Double rangee de contacts 2 x 4 pins
-CONN
+4
+4
+marbastlib-choc
+LED_choc_6028R
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
 0
-6
-6
-keyboard_parts
-C_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
+4
+4
+marbastlib-choc
+LED_choc_6028R-ROT
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
 0
-2
-2
-keyboard_parts
-C_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-C_3216
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3216_rev2
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3225
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3528
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_3528_pol
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-C_6032
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyboard_parts
-DSUB9P
-
+4
+4
+marbastlib-choc
+SW_choc_v1_1.5u
+Footprint for Kailh Choc style switches
 
 0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.25u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.75u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.5u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.75u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_2.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-hitek
+SW_HiTek_1.5u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_1.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_1.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_1.75u_STP_1.5
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_1.75u_STP_1.25
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_1u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_2.25u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_2.75u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_2u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-hitek
+SW_HiTek_7u
+Footprint for Hi-Tek Series 725 ("Space Invader") Switches
+Hi-Tek hitek space invader switch keyboard 725
+0
+4
+2
+marbastlib-mx
+LED_MX_3mm
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_3mm-ROT
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_1206R
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_1206R-ROT
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R-ROT
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+4
+0
+marbastlib-mx
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.5
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.25
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_CPG151101S11_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_S_CPG151101S11_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-various
+CON_FH33J-4S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-4S-0.5SH, 4 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+6
+5
+marbastlib-various
+CON_FH33J-10S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+12
 11
-10
-keyboard_parts
-D_SC79
-SMT, 1608, 0603
-SMT, 1608, 0603
+marbastlib-various
+CON_FH33J-12S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
 0
-2
-2
-keyboard_parts
-D_SOD123
-
-
+14
+13
+marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
 0
-2
-2
-keyboard_parts
-D_SOD123W_hand
-
-
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
 0
-2
-2
-keyboard_parts
-D_SOD123_axial
-
-
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
 0
-6
-2
-keyboard_parts
-D_SOD123_hand
-
-
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
 0
-2
-2
-keyboard_parts
-D_axial
-
-
-0
-2
-2
-keyboard_parts
-FA-238
-
-
+4
+4
+marbastlib-various
+CON_JST_ACH_BM02B
+JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
+connector JST ACH vertical
 0
 4
 3
-keyboard_parts
-HC-49_SMT
-
-
+marbastlib-various
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
 0
-2
-2
-keyboard_parts
-HHKB_JP_HRS_DF14_15P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
+6
+6
+marbastlib-various
+LED_1206R
+rear-mount SMD MHT151RGBCT 1206 RGB LED
+LED RGB 1206 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
+connector Molex Pico-EZmate side entry
 0
 17
+4
+marbastlib-various
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+marbastlib-various
+Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+20
+7
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0020_1x02-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0020 (https://www.molex.com/en-us/products/part-detail/2082940020)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0030_1x03-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940030)
+connector Molex Pico-EZmate side entry
+0
 17
-keyboard_parts
-HHKB_PRO2_ZH13
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-HHKB pro2, JST, ZH
-0
-15
-15
-keyboard_parts
-HHKB_PRO2_ZH13_TH
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-JST ZH 13 HHKB pro2
-0
-13
-13
-keyboard_parts
-HHKB_PRO_PH15
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST PH 15 HHKB PRO
-0
-15
-15
-keyboard_parts
-HOLE_M2.6
-
-
-0
-1
-1
-keyboard_parts
-HOLE_M3
-
-
-0
-1
-1
-keyboard_parts
-HRS_DF14_20P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-22
-22
-keyboard_parts
-JST_PH2_SMT
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
 4
-3
-keyboard_parts
-JST_PH2_SMT_TH
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0040_1x04-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
 0
-6
-3
-keyboard_parts
-JST_PH2_TH
-
-JST, PH2, Lipo
-0
-2
-2
-keyboard_parts
-LED_0805
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_2012_HSOL
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_3020_REFLOW
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyboard_parts
-LED_3025_DUAL
-
-
-0
-4
-4
-keyboard_parts
-LED_TH
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyboard_parts
-LED_TH_BIVAR
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyboard_parts
-LTC4054
-
-Lipo charger
-0
+18
 5
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0050_1x05-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
 5
-keyboard_parts
-L_6x6MM
-
-
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
+connector Molex Pico-EZmate side entry
 0
-2
-2
-keyboard_parts
-L_7x7MM
-
-
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
+connector Molex Pico-EZmate side entry
 0
-2
-2
-keyboard_parts
-MINI_DIN_8
+20
+7
+marbastlib-various
+PNT_RKJXU1210006
 
-
-0
-11
-9
-keyboard_parts
-MOS_FET_SOT23-3_HSOL
-SOT23
 
 0
 3
-3
-keyboard_parts
-PIN_1
-
-CONN pin 1 circle
-0
 1
-1
-keyboard_parts
-PIN_1_SQUARE
-
-CONN pin 1 square
-0
-1
-1
-keyboard_parts
-PPTC_nano
-
+marbastlib-various
+QFN-60_EP_7x7_Pitch0.4mm
+QFN-60 package accroding to IS31FL3741A datasheets
 
 0
-2
-2
-keyboard_parts
-PTC_3225
-
-
-0
-2
-2
-keyboard_parts
-Poker_oval_hole
-
-
-0
-1
-0
-keyboard_parts
-Poker_side_edge_long
-
-
-0
-1
-0
-keyboard_parts
-QFP32
-
-
-0
-32
-32
-keyboard_parts
-QFP32_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-32
-32
-keyboard_parts
-QFP44
-
-
-0
-44
-44
-keyboard_parts
-QFP44_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-44
-44
-keyboard_parts
-RN42
-
-
-0
-32
-32
-keyboard_parts
-R_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_1608_NOGUIDE
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-R_2012
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyboard_parts
-SLP3-200-100-F
-
-
-0
-0
-0
-keyboard_parts
-SM_3216_POL
-
-
-0
-2
-2
-keyboard_parts
-SOLDER_JUMPER_2
-
-solder jumper bridge configuration
-0
-2
-2
-keyboard_parts
-SOLDER_JUMPER_2_WIRED
-
-solder jumper bridge configuration
-0
-3
-1
-keyboard_parts
-SOLDER_JUMPER_3
-
-solder jumper bridge configuration
-0
-3
-3
-keyboard_parts
-SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-keyboard_parts
-SOT23-5_HSOL
-SOT23
-
-0
-5
-5
-keyboard_parts
-SOT23-6_HSOL
-SOT23
-
-0
-6
-6
-keyboard_parts
-SW_ALPS_SKRP
-
-
-0
-4
-2
-keyboard_parts
-SW_ALPS_SKSG
-
-
-0
-6
-4
-keyboard_parts
-SW_ALPS_SSAA
-
-
-0
-8
-8
-keyboard_parts
-SW_MINI_SLIDE
-
-
-0
-6
-6
-keyboard_parts
-SW_TACT_TH_HORIZ
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
-ALPS SKHH tactile switch
-0
-4
-4
-keyboard_parts
-SW_TACT_TH_HORIZ_LOW
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
-ALPS SKHLL low tactile switch
-0
-4
-4
-keyboard_parts
-USB_A
-
-
-0
-6
-5
-keyboard_parts
-USB_A_PLUG
-
-
-0
-8
-6
-keyboard_parts
-USB_microB
-USB microB hirose ZX62R-B-5P
-USB micorB hirose
-0
-11
-6
-keyboard_parts
-USB_miniB
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-keyboard_parts
-USB_miniB_hirose_5S8
-USB miniB hirose UX60SC-MB-5S8
-USB miniB hirose through hole UX60SC-MB-5S8
-0
-9
-6
-keyboard_parts
-USB_miniB_hirose_5ST
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
+158
+61
+marbastlib-various
+ROT_Alps_EC11E-Switch
+Alps rotary encoder, EC11E/EC11N with switch, vertical shaft
+rotary encoder
 0
 7
 6
-keyboard_parts
-USB_miniB_hirose_5ST_hand
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
-0
-7
-6
-keyboard_parts
-WT12_bluegiga
-
-BlueGiga, WT12, Bluetooth
-0
-31
-31
-keyboard_parts
-XTAL_HC_49_TH
-
-
-0
-2
-2
-keyboard_parts
-crystal_FA238-TSX3225
-crystal Epson Toyocom FA-238 and TSX-3225 series
+marbastlib-various
+ROT_SKYLOONG_HS-Switch
+SKYLOONG hotswap knob module with internal switch
 
 0
 4
+4
+marbastlib-various
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+marbastlib-various
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
 3
-keyboard_parts
-tmk2016
+3
+marbastlib-various
+SW_MSK12C02-HB
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+marbastlib-various
+SW_SKHLLCA010
+alps SKHLLCA010 DIP pushbutton
+alps tht dip pushbutton SPST
+0
+4
+3
+marbastlib-various
+SW_SPST_SKQG_WithStem
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
+SPST Button Switch
+0
+4
+2
+marbastlib-various
+SW_SSSS213100
+alps SKHLLCA010 DIP 1-pole, 2-position switch
+alps dip tht SPDT
+0
+3
+3
+marbastlib-various
+SW_SSSS223900
+alps SKHLLCA010 DIP 2-pole, 3-position switch
+alps tht dip DP3T
+0
+8
+8
+marbastlib-various
+SW_T1A2QR
+12V 50mA SMD pushbutton, available at LCSC/JLCPCB (C100056)
+SMD pushbutton
+0
+4
+2
+marbastlib-various
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+marbastlib-various
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+XUNPU_FPC-05F-16PH20_1x16-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 16 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-16PH20
+0
+18
+17
+marbastlib-various
+XUNPU_FPC-05F-20PH20_1x20-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-20PH20
+0
+22
+21
+marbastlib-various
+XUNPU_FPC-05F-24PH20_1x24-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 24 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-24PH20
+0
+26
+25
+marbastlib-various
+mousebites_1mm
 
 
 0
 0
 0
-keyboard_parts
-tmk_logo
+marbastlib-various
+mousebites_2.5mm
 
 
 0
 0
 0
+marbastlib-various
+mousebites_2mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_5p5mm_easysnap
+Mousebites designed to break easier on one side than the other, with hole to apply leverage
+mousebites hex 
+0
+0
+0
+marbastlib-various
+nRF52840_E73-2G4M08S1C
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+43
+43
+marbastlib-various
+nRF52840_E73-2G4M08S1C_simple
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+28
+28
+marbastlib-various
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+37
+37
+marbastlib-various
+nRF52840_moko_mk08
+Module containing a nRF52840 and most passives and antenna
+moko mk08a mk08b nRF52840 bluetooth low energy 
+0
+60
+58
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
