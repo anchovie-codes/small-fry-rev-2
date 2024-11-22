@@ -15023,7 +15023,7 @@
 				)
 			)
 		)
-		(property "Value" "Pico"
+		(property "Value" "RP2040"
 			(at 38.1 21.59 0)
 			(effects
 				(font
